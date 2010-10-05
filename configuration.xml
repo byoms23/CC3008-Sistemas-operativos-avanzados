@@ -1,0 +1,12 @@
+<webServer>
+    <port value='8081' />
+    <poolSize value='15' />
+    <cacheSize value='5' />
+    <rootFolder value='' />
+    <logFile value='request.log' />
+    <users>
+        <user name='byron' password='byron' />
+        <user name='hola' password='hola' />
+        <user name='admin' password='admin' />
+    </users>
+</webServer>
